@@ -9,8 +9,6 @@ The Computer Management System is a Java-based application that allows system ad
 - [Setup](#setup)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
